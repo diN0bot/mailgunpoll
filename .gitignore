@@ -1,3 +1,6 @@
+settings.py
+log.py
+
 *.py[cod]
 
 # C extensions
